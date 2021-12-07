@@ -1,4 +1,7 @@
-### Hi there 👋
+<img src="code.jpg" alt="banner" align="center" />
+
+<h2 align="center">Hi there🖖🏻</h2>
+
 
 My name is Marco, I'm actually experimenting with a lot of things, GitHub it's my warehouse, maybe you can find something interesting here!
 
