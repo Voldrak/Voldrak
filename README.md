@@ -1,4 +1,4 @@
-<img src="code.jpg" alt="banner" align="center" />
+<center><img src="code.jpg" alt="banner" /></center>
 
 <h2 align="center">Hi there🖖🏻</h2>
 
