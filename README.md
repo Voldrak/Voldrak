@@ -14,5 +14,5 @@ My name is Marco, I'm actually experimenting with a lot of things, GitHub it's m
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />  
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
-    <img alt="C#" src="https://img.shields.io/badge/C#-CC6699?logo=c#&logoColor=white&style=for-the-badge " />
+    <img alt="C#" src="https://img.shields.io/badge/C#" />
 </p>
