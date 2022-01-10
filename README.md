@@ -1,4 +1,4 @@
-<center><img src="code.jpg" alt="banner" align="center"></center>
+<div align="center"><img src="code.jpg" alt="banner" align="center"> </div>
 
 <h2 align="center">Hi👋</h2>
 
@@ -32,3 +32,7 @@ My name is Marco, I'm actually experimenting with a lot of things, GitHub it's m
     <a target="_blank"href="https://www.linkedin.com/in/marco-messina-aa674a219/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-          badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:voldrak94@gmail.com?subject=Hello%20Marco,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+### Stats
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Voldrak&theme=blue-green&layout=compact)](https://github.com/Voldrak/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Voldrak's github stats](https://github-readme-stats.vercel.app/api?username=Voldrak&theme=blue-green&show_icons=true)](https://github.com/Voldrak/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
